@@ -107,9 +107,9 @@
 
 			<div class="container studentreviewright">
 		  		<div class="row">
-					<div class="col-md-3 col-md-offset-2 animated studentprofile">
+					<div class="col-md-3 col-md-offset-2 animated studentprofile">							
+						<h2>Gerardo Morillo</h2>
 						<div class="studentimage">
-							<h2>Gerardo Morillo</h2>
 							<img class="student" src="img/jerry.jpg">
 						</div>
 						<h3>Hired at MetLife</h3>
@@ -144,8 +144,8 @@
 			<div class="container studentreviewright">
 		  		<div class="row">
 					<div class="col-md-3 col-md-offset-2 animated studentprofile">
+						<h2>Michael Huynh</h2>
 						<div class="studentimage">
-							<h2>Michael Huynh</h2>
 							<img class="student" src="img/mikehuynh.png">
 						</div>
 						<h3>Hired at Title Nine</h3>
@@ -171,8 +171,8 @@
 			<div class="container studentreviewright">
 		  		<div class="row">
 					<div class="col-md-3 col-md-offset-2 animated studentprofile">
+						<h2>Michael Ibe</h2>
 						<div class="studentimage">
-							<h2>Michael Ibe</h2>
 							<img class="student" src="img/mikeibe.jpg">
 						</div>
 						<h3>Hired at US Tax Lien Association</h3>
