@@ -118,15 +118,78 @@
 					</div>
 			  		<div class="col-md-5 animated studtestimonial">
 			  			<h2>Gerardo Morillo</h2>
-						<p class="">From the start of 2014, I was still on a confusing path.I was unsure if Codify Academy was the right choice or not, But I am glad I took the leap of faith because Codify Academy's material is powerful knowledge.
+						<p class="">From the start of 2014, I was still on a confusing path.I was unsure if Codify Academy was the right choice or not, But I am glad I took the leap of faith because Codify Academy's material is powerful knowledge.</p>
 
-						If you are like me and can see great opportunities from a mile away, then you will see how Codify Academy can improve your job hunting or even just make some extra money on the side.
+						<p>If you are like me and can see great opportunities from a mile away, then you will see how Codify Academy can improve your job hunting or even just make some extra money on the side.</p>
 
-						I would like to give a thanks to the Brody brothers for presenting this opportunity which has kickstarted my career and skyrocketed my personal growth. My man Chris, was not just a mentor,but a true bro. I felt relaxed and comfortable and appreciate his genuine desire to want more from life as well as share that with those around him.
+						<p>I would like to give a thanks to the Brody brothers for presenting this opportunity which has kickstarted my career and skyrocketed my personal growth. My man Chris, was not just a mentor,but a true bro. I felt relaxed and comfortable and appreciate his genuine desire to want more from life as well as share that with those around him.</p>
 
-						After the program I aggressively applied for jobs. When I got interviewed and the very following day I heard this, "I have some good news for you - YOU GOT THE JOB!!!". It was such sweet satisfaction.
+						<p>After the program I aggressively applied for jobs. When I got interviewed and the very following day I heard this, "I have some good news for you - YOU GOT THE JOB!!!". It was such sweet satisfaction.</p>
 
-						Thank you again Chris and to the entire Codify Academy team.
+						<p>Thank you again Chris and to the entire Codify Academy team.</p>
+					</div>
+				</div>
+			</div>
+
+			<hr>
+
+			<div class="row mininfo">
+				<div class="col-md-12">
+					<p class="gradfacts">Our fastest hire was 7 weeks into the class</p>
+				</div>
+			</div>
+
+			<hr>
+
+			<div class="container studentreviewright">
+		  		<div class="row">
+					<div class="col-md-3 col-md-offset-2 animated studentprofile">
+						<div class="studentimage">
+							<h2>Michael Huynh</h2>
+							<img class="student" src="img/mikehuynh.png">
+						</div>
+						<h3>Hired at Title Nine</h3>
+						<h3>Job Title: Front-End Developer</h3>
+					</div>
+			  		<div class="col-md-5 animated studtestimonial">
+			  			<h2>Michael Huynh</h2>
+						<p class="">After graduating college, I was not able to find work as a Web Developer. I had little experience in web development and felt like I did not know enough to get a job. So I joined Codify Academy in order to improve my skill-set. It was a great experience because I got to learn what it takes to be a good developer in today's market. I have gained confidence in my abilities and have worked at places such as Title Nine and the University of San Francisco as a Web Developer.</p>
+					</div>
+				</div>
+			</div>
+
+			<hr>
+
+			<div class="row mininfo">
+				<div class="col-md-12">
+					<p class="gradfacts">Are you ready for a career?</p>
+				</div>
+			</div>
+
+			<hr>
+
+			<div class="container studentreviewright">
+		  		<div class="row">
+					<div class="col-md-3 col-md-offset-2 animated studentprofile">
+						<div class="studentimage">
+							<h2>Michael Ibe</h2>
+							<img class="student" src="img/mikeibe.jpg">
+						</div>
+						<h3>Hired at US Tax Lien Association</h3>
+						<h3>Job Title: Front-End Designer</h3>
+						<h3>Previous job: restaurant manager</h3>
+					</div>
+			  		<div class="col-md-5 animated studtestimonial">
+			  			<h2>Michael Ibe</h2>
+						<p class="">I was in restaurant management and development for the past 8 years. I knew nothing about the tech industry and absolutely ZERO about coding. First time I heard about HTML and CSS was day 1 of the course. Fast forward 7 months later got my first independent contract position (that may lead to full time employee) to help redesign the website for an actual company!</p>
+
+						<p>I've read some of the bad reviews on Codify and I can understand why some people are upset. Yes the Craigslist add promised you'd be a developer in 16 weeks and that you'd making 87,000k/year. But if you really thought it was just going to be spoon fed to you, come on now. And to be honest $5000 might be a high investment but I know people that owe 50k in student loans and are still looking to land their first job in their selected field.</p>
+
+						<p>Bottom line, the course goes by fast. There's a lot of work every week. You get out what you put in. So study and work hard. And once you feel confident enough in your skills go out and apply. And I don't mean send a couple of resumes with the same cover letter. You have to aggressively push to get that interview.</p>
+
+						<p>The best part- mah man Matt. He's more than just a mentor. The course has been over since May and I'm still able to come in and sit in on lessons. Matt has taking time to prep me for interviews, walk me thru scenarios and just gave me that extra reassurance you need sometimes.</p>
+
+						<p>I would recommend Codify to anyone that wants to jumpstart their career but is also willing to hustle at it</p>
 					</div>
 				</div>
 			</div>
